@@ -22,7 +22,7 @@ Je travaille sur divers startup, dont une qui s'oriente sur de la création de j
 ## Tiyo
 
 - **Nom** : BONDEAU Yohann
-- **Age** : 24 ans
+- **Age** : 25 ans
 - **Métier** : Ingénieur développement.
 - **Compétences clés** : C/C++/C# , ECMAscript5+, HTML & CSS, NodeJS, SQL, MongoDB   
 
